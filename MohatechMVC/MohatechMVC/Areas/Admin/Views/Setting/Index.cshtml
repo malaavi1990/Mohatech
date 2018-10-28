@@ -1,0 +1,94 @@
+﻿@model MohatechDomain.Setting
+
+@{
+    ViewBag.Title = "تنظیمات سایت";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+
+<div>
+    <h4>تنظیمات سایت</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.SiteTitle)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.SiteTitle)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Description)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Keyword)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Keyword)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CopyRight)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.CopyRight)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NavIcon)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.NavIcon)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Address)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Address)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PhoneNumber)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.PhoneNumber)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.WorkTime)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.WorkTime)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SupportEmail)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.SupportEmail)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.InfoEmail)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.InfoEmail)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Logo)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Logo)
+        </dd>
+    </dl>
+</div>
+
+<p>
+    @Html.ActionLink("ویرایش", "Edit")
+</p>

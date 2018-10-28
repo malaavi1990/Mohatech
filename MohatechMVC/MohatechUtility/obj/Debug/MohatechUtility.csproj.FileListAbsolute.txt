@@ -1,0 +1,6 @@
+D:\MohaNEW\MohaTech Last Version\MohatechMVC\MohatechUtility\bin\Debug\MohatechUtility.dll
+D:\MohaNEW\MohaTech Last Version\MohatechMVC\MohatechUtility\bin\Debug\MohatechUtility.pdb
+D:\MohaNEW\MohaTech Last Version\MohatechMVC\MohatechUtility\obj\Debug\MohatechUtility.csproj.CoreCompileInputs.cache
+D:\MohaNEW\MohaTech Last Version\MohatechMVC\MohatechUtility\obj\Debug\MohatechUtility.dll
+D:\MohaNEW\MohaTech Last Version\MohatechMVC\MohatechUtility\obj\Debug\MohatechUtility.pdb
+D:\MohaNEW\MohaTech Last Version\MohatechMVC\MohatechUtility\obj\Debug\MohatechUtility.csprojAssemblyReference.cache

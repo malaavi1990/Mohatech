@@ -1,0 +1,14 @@
+D:\MohaNEW\MohaTech Last Version\MohatechMVC\MohatechBusiness\bin\Debug\MohatechBusiness.dll
+D:\MohaNEW\MohaTech Last Version\MohatechMVC\MohatechBusiness\bin\Debug\MohatechBusiness.pdb
+D:\MohaNEW\MohaTech Last Version\MohatechMVC\MohatechBusiness\obj\Debug\MohatechBusiness.csprojAssemblyReference.cache
+D:\MohaNEW\MohaTech Last Version\MohatechMVC\MohatechBusiness\obj\Debug\MohatechBusiness.csproj.CoreCompileInputs.cache
+D:\MohaNEW\MohaTech Last Version\MohatechMVC\MohatechBusiness\obj\Debug\MohatechBusiness.dll
+D:\MohaNEW\MohaTech Last Version\MohatechMVC\MohatechBusiness\obj\Debug\MohatechBusiness.pdb
+D:\MohaNEW\MohaTech Last Version\MohatechMVC\MohatechBusiness\bin\Debug\MohatechDAL.dll
+D:\MohaNEW\MohaTech Last Version\MohatechMVC\MohatechBusiness\bin\Debug\MohatechDomain.dll
+D:\MohaNEW\MohaTech Last Version\MohatechMVC\MohatechBusiness\bin\Debug\EntityFramework.dll
+D:\MohaNEW\MohaTech Last Version\MohatechMVC\MohatechBusiness\bin\Debug\MohatechDAL.pdb
+D:\MohaNEW\MohaTech Last Version\MohatechMVC\MohatechBusiness\bin\Debug\MohatechDAL.dll.config
+D:\MohaNEW\MohaTech Last Version\MohatechMVC\MohatechBusiness\bin\Debug\MohatechDomain.pdb
+D:\MohaNEW\MohaTech Last Version\MohatechMVC\MohatechBusiness\bin\Debug\EntityFramework.xml
+D:\MohaNEW\MohaTech Last Version\MohatechMVC\MohatechBusiness\obj\Debug\MohatechBusiness.csproj.CopyComplete

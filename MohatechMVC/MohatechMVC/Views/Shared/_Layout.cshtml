@@ -1,0 +1,29 @@
+﻿@using MohatechBusiness.Interfaces
+@using MohatechBusiness.Classes
+@using MohatechDomain;
+@{
+    ISettingBusiness settingBusiness = new SettingBusiness();
+    Setting setting = settingBusiness.Get();
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="@setting.Description" />
+    <meta name="keyword" content="@setting.Keyword" />
+    @*<meta name="image" content="@Url.Content("~/Conent/Image/"+@setting.NavIcon) " />*@
+    <title>@setting.SiteTitle - @ViewBag.Title</title>
+    @Styles.Render("~/Content/Styles")
+</head>
+<body>
+    <div class="container">
+        @RenderBody()
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>
